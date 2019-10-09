@@ -1,8 +1,8 @@
 # react-gitsearch
 
-Gerenciador de repositórios em React utilizando Styled Components, Local Storage, React Router Dom e Axios para requisições à api do Github.
+Github repository manager built with React using Styled Components, Local Storage, React Router Dom and Axios for Github api requests.
 
-Desenvolvido durante o módulo 05 do bootcamp da Rocketseat.
+Developed during Rocketseat Bootcamp module 05.
 
 <img src="https://github.com/favicon.ico">
 
